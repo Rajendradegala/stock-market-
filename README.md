@@ -7,6 +7,7 @@ import pandas as pd
 
 # Load the dataset
 df = pd.read_csv('SP500.csv')
+![stock market2](https://github.com/Rajendradegala/stock-market-/assets/140039152/f84b1878-1954-4c7a-8c6e-82ab178a0b23)
 
 2. Explore the Dataset
 The next step is to explore the dataset. We can use the head() method to view the first few rows of the dataset.

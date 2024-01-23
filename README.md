@@ -7,19 +7,26 @@ import pandas as pd
 
 # Load the dataset
 df = pd.read_csv('SP500.csv')
+
+
 ![stock market2](https://github.com/Rajendradegala/stock-market-/assets/140039152/f84b1878-1954-4c7a-8c6e-82ab178a0b23)
+
 
 2. Explore the Dataset
 The next step is to explore the dataset. We can use the head() method to view the first few rows of the dataset.
 
 # View the first few rows of the dataset
 df.head()
+
+
 ![view data](https://github.com/Rajendradegala/stock-market-/assets/140039152/61cf7f8d-1062-44c2-ae7f-77b33c16ebc8)
 
 
 
 # View the data types and non-null values in the dataset
 df.info()
+
+
 ![rangeindex](https://github.com/Rajendradegala/stock-market-/assets/140039152/6f603f91-90ef-4b10-87da-2ffee66714ee)
 From the output, we can see that the dataset has 16924 rows and 6 columns. The columns are date, open, high, low, close, and volume. All columns have non-null values.
 
@@ -34,6 +41,7 @@ Rename columns: Rename the columns if necessary for better readability and under
 Remove irrelevant columns: Remove any columns that are not necessary for analysis or are redundant.
 Handle outliers: Check for outliers in the data and decide whether to remove them or keep them.
 Standardize data: Standardizing the data helps to bring all the columns to the same scale, which makes it easier to compare the columns. You can standardize the data using the StandardScaler class from the sklearn.preprocessing module.
+
 import pandas as pd
 
 # Load the dataset

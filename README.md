@@ -103,3 +103,9 @@ import seaborn as sns
 
 import plotly.express as px
 
+
+![yearbyyear](https://github.com/Rajendradegala/stock-market-/assets/140039152/4cebe682-f912-4287-9bdf-551033616111)
+
+
+
+

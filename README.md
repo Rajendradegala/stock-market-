@@ -80,6 +80,9 @@ After performing the above additional data cleaning steps, you can move on to th
 
 
 4.Data Visualization
+
+
+
 The next step is to visualize the data. We can use various types of plots to visualize the patterns and relationships in the data. Here, we will use the matplotlib and seaborn libraries to create plots.
 
 #import libraries first

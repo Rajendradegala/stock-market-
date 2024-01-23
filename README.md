@@ -93,7 +93,10 @@ The next step is to visualize the data. We can use various types of plots to vis
 
 
 #import libraries first
+
 import matplotlib.pyplot as plt
+
 import seaborn as sns
+
 import plotly.express as px
 

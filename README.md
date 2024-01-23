@@ -119,6 +119,8 @@ We can also visualize the stock prices for individual companies using a line cha
 
 
 
+![price over time](https://github.com/Rajendradegala/stock-market-/assets/140039152/793c0f15-1b24-41ed-b344-25850dddf8e9)
 
 
+We can also visualize the stock prices for multiple companies using a line chart. We can use a loop to filter the dataset based on the company name and plot the closing stock price over time.
 

@@ -110,7 +110,7 @@ import plotly.express as px
 
 From the plot, we can see that the closing stock prices have generally increased over the years, with some outliers.
 
-Heatmap: We can create a heatmap to visualize the correlation between the stock prices using the seaborn library
+
 
 
 

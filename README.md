@@ -16,10 +16,14 @@ The next step is to explore the dataset. We can use the head() method to view th
 df.head()
 ![view data](https://github.com/Rajendradegala/stock-market-/assets/140039152/61cf7f8d-1062-44c2-ae7f-77b33c16ebc8)
 
+
+
 # View the data types and non-null values in the dataset
 df.info()
 ![rangeindex](https://github.com/Rajendradegala/stock-market-/assets/140039152/6f603f91-90ef-4b10-87da-2ffee66714ee)
 From the output, we can see that the dataset has 16924 rows and 6 columns. The columns are date, open, high, low, close, and volume. All columns have non-null values.
+
+
 3. Data Cleaning
 The next step is to clean the data.
 

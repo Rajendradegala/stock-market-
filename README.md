@@ -85,6 +85,13 @@ After performing the above additional data cleaning steps, you can move on to th
 
 The next step is to visualize the data. We can use various types of plots to visualize the patterns and relationships in the data. Here, we will use the matplotlib and seaborn libraries to create plots.
 
+
+
+![stock market2](https://github.com/Rajendradegala/stock-market-/assets/140039152/c8a3ddab-971b-4aaf-b659-d22563fd571c)
+
+
+
+
 #import libraries first
 import matplotlib.pyplot as plt
 import seaborn as sns

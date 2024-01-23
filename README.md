@@ -14,5 +14,7 @@ The next step is to explore the dataset. We can use the head() method to view th
 
 # View the first few rows of the dataset
 df.head()
+![view data](https://github.com/Rajendradegala/stock-market-/assets/140039152/61cf7f8d-1062-44c2-ae7f-77b33c16ebc8)
+
 # View the data types and non-null values in the dataset
 df.info()

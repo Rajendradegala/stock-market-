@@ -112,6 +112,13 @@ From the plot, we can see that the closing stock prices have generally increased
 
 
 
+![stock price](https://github.com/Rajendradegala/stock-market-/assets/140039152/4b54c09b-0657-4356-aca1-5d585db38985)
+
+
+We can also visualize the stock prices for individual companies using a line chart. We can filter the dataset based on the company name and plot the closing stock price over time.
+
+
+
 
 
 

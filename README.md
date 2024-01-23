@@ -91,6 +91,9 @@ The next step is to visualize the data. We can use various types of plots to vis
 
 
 
+From the plot, we can see that the closing stock prices have increased over time, with some fluctuations.
+
+
 
 #import libraries first
 
